@@ -17,9 +17,7 @@
 在米家智能家庭APP中设置KEY的步骤如下：
 
 ![](/assets/111.png)                     ![](/assets/112.png)
-
-
-               ![](/assets/113.png)                       ![](/assets/114.png)
+![](/assets/113.png)                       ![](/assets/114.png)
 
 
 
