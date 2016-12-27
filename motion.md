@@ -10,11 +10,11 @@
 | battery | 0-100电池电量 |
 | status | motion探测到有人 |
 
-```{"cmd":"report","model":"motion","sid":"112316","short_id":4343,"token":"4","data":"{\"status\":\"motion\"}" }```
+```{"cmd":"report","model":"motion","sid":"112316","short_id":4343,"data":"{\"status\":\"motion\"}" }```
 
 ##心跳上报(~60分钟每次):
 
-```{"cmd":"report","model":"motion","sid":"112316","short_id":4343,"token":"4","data":"{\"battery\":\"71\"}" }```
+```{"cmd":"report","model":"motion","sid":"112316","short_id":4343,"data":"{\"battery\":\"71\"}" }```
 
 
 
