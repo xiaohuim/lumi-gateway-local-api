@@ -10,13 +10,13 @@
 | status | click/double_click    (单击/双击) |
 | battery | 0-100电池电量 |
 
-```{"cmd":"report","model":"switch","sid":"112316","short_id":4343,"token":"5","data":"{\"status\":\"click\"}" }```
+```{"cmd":"report","model":"switch","sid":"112316","short_id":4343,"data":"{\"status\":\"click\"}" }```
 
-```{"cmd":"report","model":"switch","sid":"112316","short_id":4343,"token":"6","data":"{\"status\":\"double_click\"}" }```
+```{"cmd":"report","model":"switch","sid":"112316","short_id":4343,"data":"{\"status\":\"double_click\"}" }```
 
 ##心跳上报(~60分钟每次)
 
-```{"cmd":"report","model":"motion","sid":"112316","short_id":4343,"token":"4","data":"{\"battery\":\"65\"}" }```
+```{"cmd":"report","model":"motion","sid":"112316","short_id":4343,"data":"{\"battery\":\"65\"}" }```
 
 
 
