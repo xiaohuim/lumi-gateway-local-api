@@ -9,8 +9,8 @@
 | temperature | 温度 |
 | humidity | 湿度 |
 
-```{"cmd":"report","model":"sensor_ht","sid":"112316","short_id":4343,"token":"5","data":"{\" temperature \":”2333”}" }```
+```{"cmd":"report","model":"sensor_ht","sid":"112316","short_id":4343,"data":"{\" temperature \":”2333”}" }```
 
-```{"cmd":"report","model":"sensor_ht","sid":"112316","short_id":4343,"token":"6","data":"{\" humidity \":”6678”}" }```
+```{"cmd":"report","model":"sensor_ht","sid":"112316","short_id":4343,"data":"{\" humidity \":”6678”}" }```
 
 以上例子对应的温度为23.33,湿度为66.78%
